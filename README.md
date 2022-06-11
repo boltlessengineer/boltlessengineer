@@ -1,2 +1,6 @@
-2021년. **고3**입니다.
-입시 끝나고 다시 돌아오겠습니다.
+### Boltless Engineer
+
+#### Contact with
+
+- Email : `boltlessengineer@gmail.com`
+- Discord : `나사공#7781`
