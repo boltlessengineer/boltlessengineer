@@ -6,7 +6,7 @@
 
 ### Contact with
 
-- Discord : `나사공#7781`
+- Discord : `boltless`
 - Email : `boltlessengineer@gmail.com`
 
 [![나사공의 GitHub stats](https://github-readme-stats.vercel.app/api?username=boltlessengineer&theme=github_dark&border_color=30363d)](https://github.com/boltlessengineer)
