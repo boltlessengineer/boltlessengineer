@@ -6,10 +6,6 @@
 I'm student developer Seongmin Lee.\
 I do coding as my hobby.
 
-> NOTE:  
-> I'm on military service (2023/08/14 ~ 2025/05/13)  
-> Won't be contactable until 2023/09/15
-
 ### Contact with
 
 - Discord : `boltless`
