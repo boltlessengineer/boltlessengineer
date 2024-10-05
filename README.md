@@ -21,7 +21,7 @@ This is a general roadmap that is on my head.
 Until then, I'll write all my notes in private repo.
 But I might share some good ideas to [public](https://boltlessengineer.github.io/).
 
-1. [ ] [create better markup format better than markdown](https://github.com/nvim-neorg/norg-specs)
+1. [ ] [create a markup format better than markdown](https://github.com/nvim-neorg/norg-specs)
 2. [ ] create mobile editor to really use that format
 3. [ ] make a blog with that format
 
