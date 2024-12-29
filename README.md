@@ -22,12 +22,11 @@ Until then, I'll write all my notes in private repo.
 But I might share some good ideas to [public](https://boltlessengineer.github.io/).
 
 1. [ ] [create a markup format better than markdown](https://github.com/nvim-neorg/norg-specs)
-2. [ ] create mobile editor to really use that format
+2. [ ] create mobile editor to actually use that format daily
 3. [ ] make a blog with that format
 
 ### Contact with
 
 - Discord : `boltless`
 - Email : `boltlessengineer@gmail.com`
-- Mastodon : `@boltless@social.silicon.moe`
-  > Currenty Korean main acount, but I might use English more if I have more oversea friends :D
+- Bluesky : `@boltless.bsky.social`
