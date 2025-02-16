@@ -30,4 +30,4 @@ But I might share some good ideas to [public](https://boltlessengineer.github.io
 
 - Discord : `boltless`
 - Email : `boltlessengineer@gmail.com`
-- Bluesky : `@boltless.bsky.social`
+- Bluesky : `@boltless.me`
