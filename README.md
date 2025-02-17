@@ -13,6 +13,7 @@ You can call me 'boltless'.
 - [NativeVim](https://github.com/boltlessengineer/NativeVim) - PoC Neovim config *without plugins*
 - [rest.nvim](https://github.com/rest-nvim/rest.nvim) - feature-rich REST client for Neovim
 - [zeta.nvim](https://github.com/boltlessengineer/zeta.nvim) - (WIP) edit prediction implemented for Neovim
+- [sense.nvim](https://github.com/boltlessengineer/sense.nvim) - (WIP) some cool Neovim plugin (not public yet)
 - [tree-sitter-http](https://github.com/rest-nvim/tree-sitter-http) - tree-sitter parser for `http` format
 - [tree-sitter-norg3](https://github.com/tree-sitter-norg3) - (WIP) New tree-sitter parser for `norg` format
 
