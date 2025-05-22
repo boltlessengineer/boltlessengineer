@@ -23,15 +23,7 @@ You can call me 'boltless'.
 - [tree-sitter-http](https://github.com/rest-nvim/tree-sitter-http) - tree-sitter parser for `http` format
 - [tree-sitter-norg3](https://github.com/tree-sitter-norg3) - (WIP) New tree-sitter parser for `norg` format
 
-### Roadmap to my blog
-
-This is a general roadmap that is on my head.
-Until then, I'll write all my notes in private repo.
-But I might share some good ideas to [public](https://boltless.me).
-
-1. [ ] [create a markup format better than markdown](https://github.com/nvim-neorg/norg-specs)
-2. [ ] create mobile editor to actually use that format daily
-3. [ ] make a blog with that format
+Checkout my blog <https://boltless.me> to find out more.
 
 ### Contact with
 
